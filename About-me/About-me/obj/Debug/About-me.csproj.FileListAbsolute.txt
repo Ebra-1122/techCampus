@@ -1,0 +1,8 @@
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\bin\Debug\About-me.exe.config
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\bin\Debug\About-me.exe
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\bin\Debug\About-me.pdb
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\obj\Debug\About-me.csproj.AssemblyReference.cache
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\obj\Debug\About-me.csproj.SuggestedBindingRedirects.cache
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\obj\Debug\About-me.csproj.CoreCompileInputs.cache
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\obj\Debug\About-me.exe
+C:\Users\esala\OneDrive\سطح المكتب\Python Bootcamp\techCampus\About-me\About-me\obj\Debug\About-me.pdb
