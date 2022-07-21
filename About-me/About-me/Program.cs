@@ -12,6 +12,8 @@ namespace About_me
         {
             Console.WriteLine("Hello There");
             Console.WriteLine("My name is Ahmed");
+            Console.WriteLine("My borther is Ali");
+
             Console.ReadLine();
         }
     }
